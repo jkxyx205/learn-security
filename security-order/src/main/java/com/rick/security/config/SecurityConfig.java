@@ -12,7 +12,7 @@ import org.springframework.security.oauth2.provider.token.store.JwtTokenStore;
  * All rights Reserved, Designed By www.xhope.top
  *
  * @version V1.0
- * @Description: (用一句话描述该文件做什么)
+ * @Description: 配置信息
  * @author: Rick.Xu
  * @date: 9/25/20 7:51 PM
  * @Copyright: 2020 www.yodean.com. All rights reserved.
