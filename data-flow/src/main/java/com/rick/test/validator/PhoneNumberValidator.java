@@ -1,4 +1,4 @@
-package com.rick.test.Validator;
+package com.rick.test.validator;
 
 import com.rick.test.model.Phone;
 

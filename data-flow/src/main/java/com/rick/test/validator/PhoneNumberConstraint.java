@@ -1,4 +1,4 @@
-package com.rick.test.Validator;
+package com.rick.test.validator;
 
 import javax.validation.Constraint;
 import javax.validation.Payload;

@@ -1,7 +1,7 @@
 package com.rick.test.model;
 
 import com.fasterxml.jackson.databind.annotation.JsonSerialize;
-import com.rick.test.Validator.PhoneNumberConstraint;
+import com.rick.test.validator.PhoneNumberConstraint;
 import com.rick.test.converter.AddressJsonSerializer;
 import com.rick.test.persistence.converter.ObjectConverter;
 import com.rick.test.persistence.converter.ObjectListConverter;
