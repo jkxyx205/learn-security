@@ -37,7 +37,8 @@ public class SecurityConfig {
     @Bean
     public JwtAccessTokenConverter accessTokenConverter() {
         JwtAccessTokenConverter converter = new JwtAccessTokenConverter();
-        converter.setSigningKey(SIGNING_KEY); //对称秘钥，资源服务器使用该秘钥来验证
+        // 对称秘钥，资源服务器使用该秘钥来验证
+        converter.setSigningKey(SIGNING_KEY);
         return converter;
     }
 }
